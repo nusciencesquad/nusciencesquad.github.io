@@ -27,7 +27,7 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/avatar-icon.png"
+avatar: "/assets/img/beaker.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
@@ -96,6 +96,16 @@ feed_show_tags: true
 # --- Colours / background image --- #
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
+
+#Colors
+#Primary: #F78C40 0/50/100/0
+#Secondary: #8DC63F 50/0/100/0
+#Tertiary: #408FC7 75/33/0/0
+#Neutral: #E6E6E6 0/0/0/10
+
+#Font Family
+#Title: Engineer (Requires license)
+#Text: Helvetica Neue / Open Sans
 
 navbar-col: "#EAEAEA"
 navbar-text-col: "#404040"
