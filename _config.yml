@@ -107,10 +107,11 @@ feed_show_tags: true
 #Title: Engineer (Requires license)
 #Text: Helvetica Neue / Open Sans
 
-navbar-col: "#EAEAEA"
+#navbar-col: "#EAEAEA"
+navbar-col: "#F78C40"
 navbar-text-col: "#404040"
 navbar-border-col: "#DDDDDD"
-page-col: "#FFFFFF"
+page-col: "#E6E6E6"
 text-col: "#404040"
 link-col: "#008AFF"
 hover-col: "#0085A1"
