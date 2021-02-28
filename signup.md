@@ -10,4 +10,4 @@ If you have any other questions or ideas, email us!
 
 [Slack Channel](https://join.slack.com/t/nusciencesquad/shared_invite/zt-9jjt8vpc-tMPhv3z4VogZ71aji04ZpQ)
 
-Email: placeholder@fake.com
+Email: sciencesquadnu( At )gmail.com
